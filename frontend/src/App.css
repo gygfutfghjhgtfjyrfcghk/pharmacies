@@ -1,0 +1,30 @@
+.header{
+  margin-bottom: 3rem;
+}
+
+
+.footer{
+  margin-top: 3rem;
+}
+
+.card-body{
+  min-height: 9rem !important;
+  padding-bottom: 3rem;
+  position: relative;
+  cursor: pointer;
+}
+
+.card-body{
+  min-height: 7rem;
+}
+
+
+
+
+
+
+
+.footer-row {
+  display: flex;
+  justify-content: space-around;
+}
